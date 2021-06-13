@@ -10,7 +10,7 @@
 * **RF Data Telemetry & Data Communication**, I designed a hardware and wrote code and GNU Radio module to make an APRS Transmitter using an Arduino UNO and APRS receiver on GNU Radio using RTL-SDR [1](https://handiko.github.io/Arduino-APRS/), [2](https://handiko.github.io/Dorji-TX-Shield/), [3](https://handiko.github.io/gr-APRS/)
 
 ### Side Projects ⚡
-* **I own my private Amateur Radio Station**, My Callsign is YD1SDL (soon to be YC1SDL). Currently i am still upgrading my antenna system for 40m band (7 MHz).
+* **I own my private Amateur Radio Station**, My Callsign is YC1SDL. Currently i am still upgrading my antenna system for 40m band (7 MHz).
 * **I made and sell Amplifier Relay Buffer - RB-1A**, This product is used as an interface between amateur radio equipment and various of high power linear amplifier [here](https://handiko.github.io/MyBlog/2020-04-29/2020-04-29.html).
 * **I made and sell RF Noise Canceller - NCL-100+**, This product is used as a tool for noise reduction based on signal cancelation [here](https://handiko.github.io/MyBlog/2020-08-01/2020-08-01.html).
 
