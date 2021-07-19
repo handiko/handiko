@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Handiko Gesang Anugrah Sejati, S.T.
+I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circuits for HF to Low-UHF range (3 MHz - 470 MHz). Occasionally, I posts articles on my website.
 * Personal website: [https://handiko.github.io/](https://handiko.github.io/)
 * How to contact me: [handikogesang@gmail.com](handikogesang@gmail.com)
 
