@@ -21,15 +21,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Another Noise Cancelling Techniques**, To improve/upgrade my NCL-100+ Noise Canceller capabilities.
 * **Low Noise RF Amplification**
 
-![](./thumb_1.jpg)
-
-![](./thumb_2.jpg)
-
-![](./thumb_3.jpg)
-
-![](./thumb_4.jpg)
-
-![](./thumb_5.jpg)
+![](./image_merge.png)
 
 <!--
 **handiko/handiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
