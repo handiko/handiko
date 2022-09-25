@@ -24,7 +24,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Low Noise RF Amplification**
 * **Quantitative Forex Trading**
 
-![](./CHFJPY.png)
+![](./AUDCAD.png)
 
 <!--
 ![](./gmsk_rx_done.png)
