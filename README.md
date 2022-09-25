@@ -9,6 +9,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Software Defined Radio (SDR)**, I am quite proficient in using GNU Radio tools and already made a few of Out-of-tree modules [here](https://handiko.github.io/gr-HDLC-AFSK/) and [here](https://github.com/handiko/CurriculumVitae).
 * **Antenna and RF Design**, I am experienced in designing and simulating various antenna using free software, like 4NEC-2 and MMANA-GAL. A few of the design results [1](https://handiko.github.io/4E-20M-YAGI/), [2](https://handiko.github.io/Rotary-WARC-Band-Dipole/), [3](https://handiko.github.io/3E-40M-YAGI/), [4](https://handiko.github.io/Portable-Yagi-10-15-2E/), [5](https://handiko.github.io/Yagi-4E-144/)
 * **RF Data Telemetry & Data Communication**, I designed a hardware and wrote code and GNU Radio module to make an APRS Transmitter using an Arduino UNO and APRS receiver on GNU Radio using RTL-SDR [1](https://handiko.github.io/Arduino-APRS/), [2](https://handiko.github.io/Dorji-TX-Shield/), [3](https://handiko.github.io/gr-APRS/)
+* **Quantitative Forex Trading**, I recently start to trading forex and written a forex scalping strategy based on a simple RSI. [Reverse RSI Strategy](https://github.com/handiko/Reverse-RSI-Forex-Strategy)
 
 ### Side Projects ⚡
 * **I own my private Amateur Radio Station**, My Callsign is YC1SDL. Currently i am still upgrading my antenna system for 40m band (7 MHz).
@@ -20,6 +21,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Antenna Array Design**, To improve my amateur radio station capabilities.
 * **Another Noise Cancelling Techniques**, To improve/upgrade my NCL-100+ Noise Canceller capabilities.
 * **Low Noise RF Amplification**
+* **Quantitative Forex Trading**
 
 ![](./gmsk_rx_done.png)
 
