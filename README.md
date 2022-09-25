@@ -13,8 +13,9 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 
 ### Side Projects ⚡
 * **I own my private Amateur Radio Station**, My Callsign is YC1SDL. Currently i am still upgrading my antenna system for 40m band (7 MHz).
-* **I made and sell Amplifier Relay Buffer - RB-1A**, This product is used as an interface between amateur radio equipment and various of high power linear amplifier [here](https://handiko.github.io/MyBlog/2020-04-29/2020-04-29.html).
+<!--* **I made and sell Amplifier Relay Buffer - RB-1A**, This product is used as an interface between amateur radio equipment and various of high power linear amplifier [here](https://handiko.github.io/MyBlog/2020-04-29/2020-04-29.html).
 * **I made and sell RF Noise Canceller - NCL-100+**, This product is used as a tool for noise reduction based on signal cancelation [here](https://handiko.github.io/MyBlog/2020-08-01/2020-08-01.html).
+-->
 
 ### I'm Currently Learning 🌱
 * **RF Filter Design Techniques**, Primarily interested in low-cost HF-VHF RF Filter (Bandpass, Lowpass, ect.)
