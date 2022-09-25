@@ -24,9 +24,11 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Low Noise RF Amplification**
 * **Quantitative Forex Trading**
 
-![](./gmsk_rx_done.png)
+![](./CHFJPY.png)
 
 <!--
+![](./gmsk_rx_done.png)
+
 **handiko/handiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
