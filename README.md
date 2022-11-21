@@ -22,7 +22,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **Antenna Array Design**, To improve my amateur radio station capabilities.
 * **Another Noise Cancelling Techniques**, To improve/upgrade my NCL-100+ Noise Canceller capabilities.
 * **Low Noise RF Amplification**
-* **Quantitative Forex Trading**
+* **Algorithmic Forex Trading**
 
 ![](./CHFJPY.png)
 
