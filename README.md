@@ -1,3 +1,6 @@
+![](./gold.png)
+
+<!--
 ### Hi there 👋
 
 ### Handiko Gesang Anugrah Sejati, S.T.
@@ -17,6 +20,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 * **I made and sell RF Noise Canceller - NCL-100+**, This product is used as a tool for noise reduction based on signal cancelation [here](https://handiko.github.io/MyBlog/2020-08-01/2020-08-01.html).
 -->
 
+<!--
 ### I'm Currently Learning 🌱
 * **RF Filter Design Techniques**, Primarily interested in low-cost HF-VHF RF Filter (Bandpass, Lowpass, ect.)
 * **Antenna Array Design**, To improve my amateur radio station capabilities.
@@ -26,6 +30,7 @@ I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circ
 
 ![](./ReportTester-25040368.png)
 ![](./ReportTester-25040368-hst.png)
+-->
 
 <!--
 ![](./gmsk_rx_done.png)
