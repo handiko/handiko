@@ -1,4 +1,4 @@
-### Let the Algorithm Do the Heavy Lifting for You.
+## Let the Math Do the Heavy Lifting for You.
 ![](./gold.png)
 
 <!--
