@@ -1,5 +1,5 @@
 ## Let the Math Do the Heavy Lifting for You.
-![](./gold.png)
+![](./gbpusd.png)
 
 <!--
 ### Hi there 👋
