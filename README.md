@@ -1,5 +1,5 @@
 ## Let the Math Do the Heavy Lifting for You.
-![](./gbpusd.png)
+![](./GBPUSDD1.png)
 
 <!--
 ### Hi there 👋
