@@ -2,7 +2,7 @@
 ![](./GBPUSDD1.png)
 
 
-### Public Article and Projects
+### Published Articles and Projects
 [Basic Understanding of Markov Chain in Financial Market](https://github.com/handiko/Markov-Chain-In-Financial-Market/blob/main/README.md)
 
 [Using Markov chain to analyze first insight of a forex pair, index, or any market](https://github.com/handiko/Markov-Chain-UpDown-Day/blob/main/README.md)
