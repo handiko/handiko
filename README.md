@@ -17,6 +17,8 @@
 
 [Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
 
+[RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
+
 [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
 
 <!--
