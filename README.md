@@ -3,25 +3,16 @@
 
 
 ### Published Articles and Projects
-[Basic Understanding of Markov Chain in Financial Market](https://github.com/handiko/Markov-Chain-In-Financial-Market/blob/main/README.md)
-
-[Using Markov chain to analyze first insight of a forex pair, index, or any market](https://github.com/handiko/Markov-Chain-UpDown-Day/blob/main/README.md)
-
-[Using a Markov chain to determine market risk](https://github.com/handiko/Markov-Chain-In-Financial-Market-Risk/blob/main/README.md)
-
-[Trading Strategy Development Example](https://github.com/handiko/Trading-Strategy-Development-Example/blob/main/README.md)
-
-[Trading Strategy Improvement](https://github.com/handiko/Improvement-to-an-existing-strategy/blob/main/README.md)
-
-[Market Seasonality Chart Generator](https://github.com/handiko/Market-Seasonality-Chart-Generator/blob/main/README.md)
-
-[Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
-
-[RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
-
-[Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
-
-[Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
+* [Basic Understanding of Markov Chain in Financial Market](https://github.com/handiko/Markov-Chain-In-Financial-Market/blob/main/README.md)
+* [Using Markov chain to analyze first insight of a forex pair, index, or any market](https://github.com/handiko/Markov-Chain-UpDown-Day/blob/main/README.md)
+* [Using a Markov chain to determine market risk](https://github.com/handiko/Markov-Chain-In-Financial-Market-Risk/blob/main/README.md)
+* [Trading Strategy Development Example](https://github.com/handiko/Trading-Strategy-Development-Example/blob/main/README.md)
+* [Trading Strategy Improvement](https://github.com/handiko/Improvement-to-an-existing-strategy/blob/main/README.md)
+* [RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
+* [Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
+* [Market Seasonality Chart Generator](https://github.com/handiko/Market-Seasonality-Chart-Generator/blob/main/README.md)
+* [Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
+* [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
 
 <!--
 ### Hi there 👋
