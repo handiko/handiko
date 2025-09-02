@@ -19,13 +19,15 @@
 
 [RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
 
+[Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
+
 [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
 
 <!--
 ### Hi there 👋
 
 ### Handiko Gesang Anugrah Sejati, S.T.
-I work primarily as a RF Engineer/RF Specialist who designed board-level RF Circuits for HF to Low-UHF range (3 MHz - 470 MHz). Occasionally, I posts articles on my website.
+I work primarily as an RF Engineer/RF Specialist who designs board-level RF Circuits for HF to Low-UHF range (3 MHz - 470 MHz). Occasionally, I post articles on my website.
 * Personal website: [https://handiko.github.io/](https://handiko.github.io/)
 * How to contact me: [handikogesang@gmail.com](handikogesang@gmail.com)
 
