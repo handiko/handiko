@@ -10,6 +10,7 @@
 * [Trading Strategy Improvement](https://github.com/handiko/Improvement-to-an-existing-strategy/blob/main/README.md)
 * [RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
 * [Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
+* [RSI-2 Trading Strategy - Pinescript version](https://github.com/handiko/RSI-2-Stock-Trading-Strategy-Pinescript/blob/main/README.md)
 * [Market Seasonality Chart Generator](https://github.com/handiko/Market-Seasonality-Chart-Generator/blob/main/README.md)
 * [Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
 * [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
