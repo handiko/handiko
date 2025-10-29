@@ -9,6 +9,7 @@
 * [Trading Strategy Development Example](https://github.com/handiko/Trading-Strategy-Development-Example/blob/main/README.md)
 * [Trading Strategy Improvement](https://github.com/handiko/Improvement-to-an-existing-strategy/blob/main/README.md)
 * [Multi-Criteria Optimal Portfolio Allocation using Monte Carlo](https://github.com/handiko/Optimal-Portfolio-Allocation/blob/main/README.md)
+* [Quantitative-Fund Portfolio Simulation and Analysis](https://github.com/handiko/Quantitative-Fund-Portfolio-Performance-Simulation-and-Analysis/blob/main/README.md)
 * [RSI-2 Stock Strading Strategy](https://github.com/handiko/RSI-2-Stock-Trading-Strategy/blob/main/README.md)
 * [Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
 * [Which Pair does Mean-Reversion? (Augmented Dickey-Fuller Test)](https://github.com/handiko/ADF-Test-Forex/blob/main/README.md)
