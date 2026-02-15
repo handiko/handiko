@@ -17,6 +17,7 @@
 * [Market Seasonality Chart Generator](https://github.com/handiko/Market-Seasonality-Chart-Generator/blob/main/README.md)
 * [Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
 * [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
+* [Polymarket Market Finder](https://github.com/handiko/Polymarket-Market-Finder/blob/main/README.md)
 * [The Capital Growth Encabulator](https://handiko.github.io/Capital-Growth-Encabulator/)
 
 <!--
