@@ -18,6 +18,7 @@
 * [Monthly Seasonality Trading Strategy Backtest](https://github.com/handiko/Monthly-Seasonality-Trading-Strategy-Backtest/blob/main/README.md)
 * [Price Data Downloader and Converter](https://github.com/handiko/Price-Data-Downloader-and-Converter/blob/main/README.md)
 * [Polymarket Market Finder](https://github.com/handiko/Polymarket-Market-Finder/blob/main/README.md)
+* [The Infinite Needle: An Exercise in Cryptographic Futility](https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet/blob/main/README.md)
 * [The Capital Growth Encabulator](https://handiko.github.io/Capital-Growth-Encabulator/)
 
 <!--
