@@ -4,6 +4,7 @@
 
 ### Published Articles and Projects
 * [USDT-IDR Monitoring Dashboard](https://github.com/handiko/USDT-IDR-Monitoring-Dashboard/blob/main/README.md)
+* [Treasury Monitoring Terminal](https://github.com/handiko/treasury-terminal/blob/main/README.md)
 * [Basic Understanding of Markov Chain in Financial Market](https://github.com/handiko/Markov-Chain-In-Financial-Market/blob/main/README.md)
 * [Using Markov chain to analyze first insight of a forex pair, index, or any market](https://github.com/handiko/Markov-Chain-UpDown-Day/blob/main/README.md)
 * [Using a Markov chain to determine market risk](https://github.com/handiko/Markov-Chain-In-Financial-Market-Risk/blob/main/README.md)
