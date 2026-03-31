@@ -3,7 +3,7 @@
 
 
 ### Published Articles and Projects
-* [Market Maker Simulator](https://handiko.github.io/market-maker-sim/), [its explanation, here](https://github.com/handiko/market-maker-sim/blob/main/README.md)
+* [Market Maker Simulator](https://handiko.github.io/market-maker-sim/) --- [its explanation, here](https://github.com/handiko/market-maker-sim/blob/main/README.md)
 * [USDT-IDR Monitoring Dashboard](https://github.com/handiko/USDT-IDR-Monitoring-Dashboard/blob/main/README.md)
 * [Treasury Monitoring Terminal](https://github.com/handiko/treasury-terminal/blob/main/README.md)
 * [Basic Understanding of Markov Chain in Financial Market](https://github.com/handiko/Markov-Chain-In-Financial-Market/blob/main/README.md)
