@@ -3,6 +3,7 @@
 
 
 ### Published Articles and Projects
+* [Machine Learning Stock Backtesting Framework](https://github.com/handiko/machine-learning-stock-backtesting)
 * [Market Maker Simulator](https://handiko.github.io/market-maker-sim/) --- its explanation:[here](https://github.com/handiko/market-maker-sim/blob/main/README.md)
 * [USDT-IDR Monitoring Dashboard](https://github.com/handiko/USDT-IDR-Monitoring-Dashboard/blob/main/README.md)
 * [Treasury Monitoring Terminal](https://github.com/handiko/treasury-terminal/blob/main/README.md)
