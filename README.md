@@ -1,4 +1,4 @@
-## My AIS-Tx Design
+## My AIS-Tx & AIS-Rx Design
 
 ![](./AIS-Tx.jpg)
 
