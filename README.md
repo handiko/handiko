@@ -1,3 +1,8 @@
+## My AIS-Tx Design
+
+![](./AIS-Tx.jpg)
+
+<!--
 ## Let the Math Do the Heavy Lifting for You.
 ![](./GBPUSDD1.png)
 
