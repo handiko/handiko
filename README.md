@@ -2,6 +2,12 @@
 
 ![](./AIS-Tx.jpg)
 
+## Other Projects
+* [Arduino APRS](https://github.com/handiko/Arduino-APRS)
+* [APRS Dorji TX Shield](https://github.com/handiko/Dorji-TX-Shield)
+* [gr-ARPS](https://github.com/handiko/gr-APRS)
+* [VHF LNA](https://github.com/handiko/VHF-LNA)
+
 <!--
 ## Let the Math Do the Heavy Lifting for You.
 ![](./GBPUSDD1.png)
