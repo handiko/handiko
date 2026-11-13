@@ -7,6 +7,9 @@
 * [APRS Dorji TX Shield](https://github.com/handiko/Dorji-TX-Shield)
 * [gr-ARPS](https://github.com/handiko/gr-APRS)
 * [VHF LNA](https://github.com/handiko/VHF-LNA)
+* [LoRa APRS Rx in GNU Radio](https://github.com/handiko/LoRa-APRS-RX-GNU-Radio)
+* [DMR Voice Decoder in GNU Radio](https://github.com/handiko/DMR-Voice-Decoder)
+* [GPS L1 C/A Receiver in GNU Radio](https://github.com/handiko/GPS-L1-CA-Rx)
 
 <!--
 ## Let the Math Do the Heavy Lifting for You.
